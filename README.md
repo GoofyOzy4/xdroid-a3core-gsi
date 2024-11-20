@@ -46,7 +46,7 @@ su -c "pm enable me.phh.treble.app/.TopLevelSettingsActivity"
 
 ## Acknowledgements
  - [LiteGapps](https://litegapps.github.io/) - For **Gapps** !
- - [yukiprjkt](https://t.me/shirayuki_plygrnd) - For **GSI** , [hiratazx](https://github.com/hiratazx) for responding and [ItzKaguya](https://gitlab.com/ItzKaguya) !
+ - [yukiprjkt](https://t.me/shirayuki_plygrnd) - For **GSI** , [hiratazx](https://github.com/hiratazx) for **responding and permission** !
  - [XDroidOss](https://github.com/xdroid-oss) - For **the wonderful ROM project** !
  - [phhusson](https://github.com/phhusson) - For **helping** and **TrebleDroid** !
  - [3443](https://github.com/FlowerGEN) - For **Testing** !
