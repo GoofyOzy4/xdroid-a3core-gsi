@@ -33,7 +33,7 @@ su -c "pm enable me.phh.treble.app/.TopLevelSettingsActivity"
 
 ### Diference from default xdroid ? (it's not my changelog)
 - Arm64 apps replaced with arm32 . **I didn't found apps change list , because GSI released 2 years ago...**
-- (Removed after V1-HotFix) **Modded** Pixel Launcher . ([Source](https://github.com/Ardjlon/vendor_PixelLauncher))
+- **(Removed after U V1-HotFix)** **Modded** Pixel Launcher . ([Source](https://github.com/Ardjlon/vendor_PixelLauncher))
 
 ### Bugs
 - **No VoLTE**.
