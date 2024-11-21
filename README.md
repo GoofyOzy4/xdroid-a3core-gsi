@@ -1,10 +1,10 @@
-# xdroid rom(GSI-TrebleDroid) - for Samsung A03 core (a3core).
+# xdroid rom(treble) - for Samsung A03 Core (a3core).
+## Maintained as device community/unofficially by Goofy_Ozy4. 
 **xdroid GSI** *(By ItzKaguya)*, which is adapted **specifically** for **Samsung A03 Core**.
-###### Maintained as device community/unnoficially by Goofy_Ozy4. 
-## what is xdroid ? :
+## Disclaimer: I am not responsible for any damage, bootloops, or bricked devices caused by using this GSI. Proceed at your own risk.
+# what is xdroid ? :
 xdroid is an **AOSP-based custom Android ROM** which is focusing on simple and minimalism while keeping the **smoothness and optimization provided by AOSP**. 
 ###### Link for [Official xdroidoss Github](https://github.com/xdroid-oss) here.
-## Disclaimer: I am not responsible for any damage, bootloops, or bricked devices caused by using this GSI. Proceed at your own risk.
 ## Documentation
 **I am not the maintainer of the GSI itself**, I am an **unofficial maintainer of the device for which I am working**, I left the GSI maintainer next to mine.
 **I will update this fork, along with my AIO module for optimization** *(if necessary)*. **A huge thank you to all the people I tagged below**.
@@ -27,12 +27,13 @@ if you need that option , for turning any option **you can open it using supreus
 ```
 su -c "pm enable me.phh.treble.app/.TopLevelSettingsActivity"
 ```
-- Offline charging redirects to system reboot. 
+- Offline charging redirects to system reboot.
+- Latest Lawnchair 14 fork [Official GitHub](https://github.com/LawnchairLauncher/lawnchair) [Fork-Source](https://github.com/Goooler/LawnchairRelease)
 - **i lov xdrod** !
 
 ### Diference from default xdroid ? (it's not my changelog)
 - Arm64 apps replaced with arm32 . **I didn't found apps change list , because GSI released 2 years ago...**
-- **Modded** Pixel Launcher . ([Source](https://github.com/Ardjlon/vendor_PixelLauncher))
+- (Removed after V1-HotFix) **Modded** Pixel Launcher . ([Source](https://github.com/Ardjlon/vendor_PixelLauncher))
 
 ### Bugs
 - **No VoLTE**.
