@@ -1,16 +1,13 @@
-# xdroid rom(GSI TrebleDroid) - for Samsung A03 core (a3core).
+# xdroid rom(GSI-TrebleDroid) - for Samsung A03 core (a3core).
 **xdroid GSI** *(By ItzKaguya)*, which is adapted **specifically** for **Samsung A03 Core**.
 ###### Maintained as device community/unnoficially by Goofy_Ozy4. 
-***
 ## what is xdroid ? :
 xdroid is an **AOSP-based custom Android ROM** which is focusing on simple and minimalism while keeping the **smoothness and optimization provided by AOSP**. 
-##### Link for [Official xdroidoss Github](https://github.com/xdroid-oss) here.
-***
+###### Link for [Official xdroidoss Github](https://github.com/xdroid-oss) here.
 ## Disclaimer: I am not responsible for any damage, bootloops, or bricked devices caused by using this GSI. Proceed at your own risk.
 ## Documentation
 **I am not the maintainer of the GSI itself**, I am an **unofficial maintainer of the device for which I am working**, I left the GSI maintainer next to mine.
-***
- **I will update this fork, along with my AIO module for optimization** *(if necessary)*. **A huge thank you to all the people I tagged below**.
+**I will update this fork, along with my AIO module for optimization** *(if necessary)*. **A huge thank you to all the people I tagged below**.
 
 
 ## Features
@@ -26,12 +23,10 @@ xdroid is an **AOSP-based custom Android ROM** which is focusing on simple and m
 • And everything for stable google services work. 
 ```
 - Hided treble settings for **fells** like **full ROM**.
-***
 if you need that option , for turning any option **you can open it using supreuser terminal, after reboot your option will hide again**:
 ```
 su -c "pm enable me.phh.treble.app/.TopLevelSettingsActivity"
 ```
-***
 - Offline charging redirects to system reboot. 
 - **i lov xdrod** !
 
