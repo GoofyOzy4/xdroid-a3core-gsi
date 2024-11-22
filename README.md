@@ -75,7 +75,7 @@ A big thanks to everyone tagged below for their contributions!
 - **[XDroidOss](https://github.com/xdroid-oss)** – For the amazing ROM project!
 - **[phhusson](https://github.com/phhusson)** – For the help and **TrebleDroid**!
 - **[3443](https://github.com/FlowerGEN)** – For **testing**!
-
+- **[Lawnchair](https://github.com/LawnchairLauncher) - For **pixel-like launcher**!
 ---
 
 ## **License**
