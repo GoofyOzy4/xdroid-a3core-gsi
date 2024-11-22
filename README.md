@@ -1,52 +1,85 @@
-# xdroid rom(treble) - for Samsung A03 Core (a3core).
-## Maintained as device community/unofficially by Goofy_Ozy4. 
-**xdroid GSI** *(By ItzKaguya)*, which is adapted **specifically** for **Samsung A03 Core**.
-## Disclaimer: I am not responsible for any damage, bootloops, or bricked devices caused by using this GSI. Proceed at your own risk.
-# what is xdroid ? :
-xdroid is an **AOSP-based custom Android ROM** which is focusing on simple and minimalism while keeping the **smoothness and optimization provided by AOSP**. 
-###### Link for [Official xdroidoss Github](https://github.com/xdroid-oss) here.
-## Documentation
-**I am not the maintainer of the GSI itself**, I am an **unofficial maintainer of the device for which I am working**, I left the GSI maintainer next to mine.
-**I will update this fork, along with my AIO module for optimization** *(if necessary)*. **A huge thank you to all the people I tagged below**.
+# **xdroid ROM (Treble) for Samsung A03 Core (a3core)**
 
+## Maintained Unofficially by Goofy_Ozy4
+This is a custom **AOSP-based** ROM, adapted specifically for the **Samsung A03 Core**.
 
-## Features
+**xdroid GSI** *(by ItzKaguya)*, tailored for the **Samsung A03 Core**, offers a minimalistic experience with a focus on performance and optimization.
 
-- **Optimized** for Samsung A03 Core.
-- **Removed useless treble overlays** that doesn't make anything for Samsung A03 Core.
-- Added **FULL** *(almost)* Gapps.
-```
-• Play Store.
-• Google app *(Velvet)*.
-• Chrome.
-• Photos.
-• And everything for stable google services work. 
-```
-- Hided treble settings for **fells** like **full ROM**.
-if you need that option , for turning any option **you can open it using supreuser terminal, after reboot your option will hide again**:
-```
-su -c "pm enable me.phh.treble.app/.TopLevelSettingsActivity"
-```
-- Offline charging redirects to system reboot.
-- Latest Lawnchair 14 fork [Official GitHub](https://github.com/LawnchairLauncher/lawnchair) [Fork-Source](https://github.com/Goooler/LawnchairRelease)
-- **i lov xdrod** !
+---
 
-### Diference from default xdroid ? (it's not my changelog)
-- Arm64 apps replaced with arm32 . **I didn't found apps change list , because GSI released 2 years ago...**
-- **(Removed after U V1-HotFix)** **Modded** Pixel Launcher . ([Source](https://github.com/Ardjlon/vendor_PixelLauncher))
+## **Disclaimer:**
+I am **not** responsible for any damage, bootloops, or bricked devices caused by using this GSI. Use at your own risk.
 
-### Bugs
-- **No VoLTE**.
-- No offline charging *(now it's the feature, because i did redirect to system instead of stuck samsung logo)*.
-- **PLEASE , REPLACE WALLPAPER FOR REMOVE LAGS !!!**
+---
 
-## Acknowledgements
- - [LiteGapps](https://litegapps.github.io/) - For **Gapps** !
- - [yukiprjkt](https://t.me/shirayuki_plygrnd) - For **GSI** , [hiratazx](https://github.com/hiratazx) for **responding and permission** !
- - [XDroidOss](https://github.com/xdroid-oss) - For **the wonderful ROM project** !
- - [phhusson](https://github.com/phhusson) - For **helping** and **TrebleDroid** !
- - [3443](https://github.com/FlowerGEN) - For **Testing** !
-## License
-**Lawnchair - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)** 
-**LiteGapps - [MIT](https://choosealicense.com/licenses/mit/)**
+## **What is xdroid?**
+
+**xdroid** is an **AOSP-based custom Android ROM** focused on simplicity and minimalism, while preserving the **smoothness** and **optimization** inherent to AOSP.  
+[Official xdroid OSS GitHub](https://github.com/xdroid-oss)
+
+---
+
+## **Documentation**
+
+**Note:** I am not the maintainer of the GSI itself. I am an **unofficial maintainer** of the device port. I will continue to update this fork, including any AIO modules for optimization if needed.
+
+A big thanks to everyone tagged below for their contributions!
+
+---
+
+## **Features**
+
+- **Optimized** specifically for the Samsung A03 Core.
+- **Removed unnecessary Treble overlays** that don’t provide benefits for the Samsung A03 Core.
+- Added **full** Google Apps (almost all):
+    ```
+    • Play Store
+    • Google App (Velvet)
+    • Chrome
+    • Photos
+    • And all necessary services for stable Google services functionality
+    ```
+- Hidden Treble settings for a cleaner **full-ROM feel**.  
+  To access them, use the following command in a superuser terminal (these will hide again after reboot):
+    ```
+    su -c "pm enable me.phh.treble.app/.TopLevelSettingsActivity"
+    ```
+- Offline charging now redirects to system reboot.
+- **Lawnchair 14** launcher fork, for a cleaner, modern UI.  
+  - [Official GitHub](https://github.com/LawnchairLauncher/lawnchair)  
+  - [Fork Source](https://github.com/Goooler/LawnchairRelease)
+- **I love xdroid!**
+
+---
+
+## **Differences from Default xdroid** *(Not My Changelog)*
+
+- Replaced arm64 apps with arm32. *(Note: The app change list is missing, as the GSI was released two years ago)*
+- **Modded Pixel Launcher** *(Removed after U V1-HotFix)*  
+  - [Source](https://github.com/Ardjlon/vendor_PixelLauncher)
+
+---
+
+## **Bugs**
+
+- **No VoLTE support.**
+- No offline charging (now a feature due to redirection to system reboot instead of being stuck at the Samsung logo).
+- **Please replace the wallpaper** to **avoid lag**.
+
+---
+
+## **Acknowledgements**
+
+- **[LiteGapps](https://litegapps.github.io/)** – For providing **Gapps**!
+- **[yukiprjkt](https://t.me/shirayuki_plygrnd)** – For the **GSI**, and **[hiratazx](https://github.com/hiratazx)** for the **help** and **permission**!
+- **[XDroidOss](https://github.com/xdroid-oss)** – For the amazing ROM project!
+- **[phhusson](https://github.com/phhusson)** – For the help and **TrebleDroid**!
+- **[3443](https://github.com/FlowerGEN)** – For **testing**!
+
+---
+
+## **License**
+
+- **Lawnchair** - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+- **LiteGapps** - [MIT](https://choosealicense.com/licenses/mit/)
 
