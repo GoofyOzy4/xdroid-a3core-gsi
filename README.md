@@ -47,6 +47,6 @@ su -c "pm enable me.phh.treble.app/.TopLevelSettingsActivity"
  - [phhusson](https://github.com/phhusson) - For **helping** and **TrebleDroid** !
  - [3443](https://github.com/FlowerGEN) - For **Testing** !
 ## License
-
+**Lawnchair - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)** 
 **LiteGapps - [MIT](https://choosealicense.com/licenses/mit/)**
 
