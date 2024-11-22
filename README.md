@@ -36,8 +36,8 @@ A big thanks to everyone tagged below for their contributions!
     • Play Store
     • Google App (Velvet)
     • Chrome
-    • Photos
-    • And all necessary services for stable Google services functionality
+    • Gallery
+    • And all necessary services and etc.
     ```
 - Hidden Treble settings for a cleaner **full-ROM feel**.  
   To access them, use the following command in a superuser terminal (these will hide again after reboot):
