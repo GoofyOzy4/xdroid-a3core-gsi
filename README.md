@@ -65,21 +65,22 @@ A big thanks to everyone tagged below for their contributions!
 - **No VoLTE support.**
 - No offline charging (now a feature due to redirection to system reboot instead of being stuck at the Samsung logo).
 - **Please replace the wallpaper** to **avoid lag**.
+- **Geolocation at first time** : Turn off and turn on once
 
 ---
 
 ## **Acknowledgements**
 
-- **[LiteGapps](https://litegapps.github.io/)** – For providing **Gapps**!
+- **[LiteGApps](https://litegapps.github.io/)** – For providing almost **full GApps**!
 - **[yukiprjkt](https://t.me/shirayuki_plygrnd)** – For the **GSI**, and **[hiratazx](https://github.com/hiratazx)** for the **help** and **permission**!
 - **[XDroidOss](https://github.com/xdroid-oss)** – For the amazing ROM project!
 - **[phhusson](https://github.com/phhusson)** – For the help and **TrebleDroid**!
 - **[3443](https://github.com/FlowerGEN)** – For **testing**!
-- **[Lawnchair](https://github.com/LawnchairLauncher)** - For **pixel-like launcher**!
+- **[Lawnchair](https://github.com/LawnchairLauncher)** - For **pixel-like launcher and awesome iconpack** !
 ---
 
 ## **License**
 
-- **Lawnchair** - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
-- **LiteGapps** - [MIT](https://choosealicense.com/licenses/mit/)
+- **Lawnchair/Lawnicons** - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+- **LiteGApps** - [MIT](https://choosealicense.com/licenses/mit/)
 
