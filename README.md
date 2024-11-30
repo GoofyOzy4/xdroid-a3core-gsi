@@ -58,7 +58,6 @@ A big thanks to everyone tagged below for their contributions!
 - **No VoLTE support.**
 - No offline charging (now a feature due to redirection to system reboot instead of being stuck at the Samsung logo).
 - **Please replace the wallpaper** to **avoid lag**.
-- **Geolocation at first time** : Turn off and turn on once
 
 ---
 
