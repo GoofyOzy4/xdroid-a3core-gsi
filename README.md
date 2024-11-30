@@ -48,15 +48,8 @@ A big thanks to everyone tagged below for their contributions!
 - **Lawnchair 14** launcher fork, for a cleaner, modern UI.  
   - [Official GitHub](https://github.com/LawnchairLauncher/lawnchair)  
   - [Fork Source](https://github.com/Goooler/LawnchairRelease)
-- **I love xdroid!**
-
----
-
-## **Differences from Default xdroid** *(Not My Changelog)*
-
 - Replaced arm64 apps with arm32. *(Note: The app change list is missing, as the GSI was released two years ago)*
-- **Modded Pixel Launcher** *(Removed after U V1-HotFix)*  
-  - [Source](https://github.com/Ardjlon/vendor_PixelLauncher)
+- **I love xdroid!**
 
 ---
 
