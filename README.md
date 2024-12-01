@@ -1,6 +1,6 @@
 # **xdroid ROM (Treble) for Samsung A03 Core (a3core)**
 
-## 📱 • Maintained Unofficially by Goofy_Ozy4
+## 📱 • Maintained Unofficially by Goofy_Ozy4. (Archived — i can't fix every bug)
 This is a custom **AOSP-based** ROM, adapted specifically for the **Samsung A03 Core**.
 
 **xdroid GSI** *(by ItzKaguya)*, tailored for the **Samsung A03 Core**, offers a minimalistic experience with a focus on performance and optimization.
